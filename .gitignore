@@ -2,3 +2,4 @@
 data/*
 !data/temperature-forecasting-challenge/
 lightning_logs
+__pycache__
