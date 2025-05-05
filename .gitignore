@@ -1,3 +1,4 @@
 .venv
-data
+data/*
+!data/temperature-forecasting-challenge/
 lightning_logs
