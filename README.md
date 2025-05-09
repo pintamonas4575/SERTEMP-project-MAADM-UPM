@@ -7,5 +7,5 @@ AI models applied to temporal series. Subject from UPM´s master degree in Machi
 Is all this life temporary? Yes, but this repository is not. Use it wisely. 
 
 # 👥 Authors
-- Alejandro Mendoza [pintamonas4575](@pintamonas4575)
-- Jaime Álvarez [JaimeAlvarez434](@JaimeAlvarez434)
+- Alejandro Mendoza [@pintamonas4575](https://github.com/pintamonas4575)
+- Jaime Álvarez [@JaimeAlvarez434](https://github.com/JaimeAlvarez434)
