@@ -1,5 +1,7 @@
-import pandas as pd
 
+# https://www.kaggle.com/code/carlmcbrideellis/utility-script-crps-score
+
+import pandas as pd
 
 def crps(submission: pd.DataFrame, solution: pd.DataFrame) -> float:
     """
@@ -75,7 +77,7 @@ def crps(submission: pd.DataFrame, solution: pd.DataFrame) -> float:
 
     del submission_tmp
     # calculate the mean CRPS
-    CRPS = CRPS/len(submission)
+    CRPS = CRPS / len(submission)
     return CRPS
 
 def coverage_report(submission: pd.DataFrame, solution: pd.DataFrame) -> None:
